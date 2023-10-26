@@ -1,0 +1,131 @@
+
+[Fri Jul 14 11:28:23.870018 2023] [wsgi:error] [pid 1638623] [client 37.201.212.110:17476] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:31:22.436595 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:17497] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:31:26.581495 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:17497] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:36:41.600172 2023] [wsgi:error] [pid 1628943] [client 37.201.212.110:17515] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:36:41.799785 2023] [wsgi:error] [pid 1628943] [client 37.201.212.110:17515] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi, referer: https://webss23_05.yoda.media.h-da.de/
+[Fri Jul 14 11:42:22.097582 2023] [wsgi:error] [pid 1624477] [client 37.201.212.110:22748] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:43:02.967152 2023] [wsgi:error] [pid 1635887] [client 37.201.212.110:53037] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:45:12.956298 2023] [wsgi:error] [pid 1638654] [client 37.201.212.110:53041] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:45:24.361982 2023] [wsgi:error] [pid 1624477] [client 37.201.212.110:53015] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:46:28.003448 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:53023] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:46:29.903955 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:53023] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:46:30.500404 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:53023] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:46:34.116227 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:53023] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:46:34.769283 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:53023] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:46:35.036198 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:53023] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:47:15.122792 2023] [wsgi:error] [pid 1628943] [client 37.201.212.110:53022] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:47:33.017729 2023] [wsgi:error] [pid 1635405] [client 37.201.212.110:53027] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:50:55.371142 2023] [wsgi:error] [pid 1621670] [client 141.100.246.236:56794] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:50:55.521674 2023] [wsgi:error] [pid 1621670] [client 141.100.246.236:56794] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi, referer: https://webss23_05.yoda.media.h-da.de/
+[Fri Jul 14 11:56:42.999424 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:53031] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:56:45.108166 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:53031] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 11:59:56.695770 2023] [auth_basic:error] [pid 1635887] [client 80.138.128.235:54376] AH01617: user webss23_05: authentication failure for "/": Password Mismatch
+[Fri Jul 14 12:01:24.321047 2023] [wsgi:error] [pid 1638654] [client 37.201.212.110:53020] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 12:01:26.909268 2023] [wsgi:error] [pid 1638654] [client 37.201.212.110:53020] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 12:08:23.746683 2023] [wsgi:error] [pid 1638663] [client 37.201.212.110:53013] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 12:08:51.561845 2023] [wsgi:error] [pid 1638623] [client 37.201.212.110:17495] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 13:10:00.763980 2023] [wsgi:error] [pid 1620892] [client 37.201.212.110:17488] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi
+[Fri Jul 14 19:35:28.824432 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57900] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:35:28.824471 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57900] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:35:28.824584 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57900] Traceback (most recent call last):
+[Fri Jul 14 19:35:28.824599 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57900]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:35:28.824602 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57900]     import app
+[Fri Jul 14 19:35:28.824611 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57900] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:35:40.896897 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57899] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:35:40.896940 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57899] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:35:40.896999 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57899] Traceback (most recent call last):
+[Fri Jul 14 19:35:40.897014 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57899]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:35:40.897018 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57899]     import app
+[Fri Jul 14 19:35:40.897031 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57899] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:36:59.862074 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57917] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:36:59.862122 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57917] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:36:59.862191 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57917] Traceback (most recent call last):
+[Fri Jul 14 19:36:59.862206 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57917]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:36:59.862209 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57917]     import app
+[Fri Jul 14 19:36:59.862222 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57917] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:37:02.580342 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57918] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:02.580382 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57918] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:02.580453 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57918] Traceback (most recent call last):
+[Fri Jul 14 19:37:02.580468 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57918]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:37:02.580472 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57918]     import app
+[Fri Jul 14 19:37:02.580484 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57918] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:37:05.719688 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57919] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:05.719732 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57919] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:05.719794 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57919] Traceback (most recent call last):
+[Fri Jul 14 19:37:05.719831 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57919]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:37:05.719834 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57919]     import app
+[Fri Jul 14 19:37:05.719847 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57919] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:37:08.531879 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57920] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:08.531924 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57920] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:08.531987 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57920] Traceback (most recent call last):
+[Fri Jul 14 19:37:08.532003 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57920]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:37:08.532006 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57920]     import app
+[Fri Jul 14 19:37:08.532018 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57920] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:37:14.779031 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57921] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:14.779074 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57921] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:14.779133 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57921] Traceback (most recent call last):
+[Fri Jul 14 19:37:14.779149 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57921]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:37:14.779152 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57921]     import app
+[Fri Jul 14 19:37:14.779164 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57921] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:37:20.842394 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57923] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:20.842438 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57923] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:20.842500 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57923] Traceback (most recent call last):
+[Fri Jul 14 19:37:20.842515 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57923]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:37:20.842518 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57923]     import app
+[Fri Jul 14 19:37:20.842541 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57923] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:37:48.721480 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57930] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:48.721527 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57930] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:37:48.721590 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57930] Traceback (most recent call last):
+[Fri Jul 14 19:37:48.721606 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57930]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:37:48.721609 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57930]     import app
+[Fri Jul 14 19:37:48.721637 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57930] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:40:59.857038 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57986] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:40:59.857082 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57986] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:40:59.857156 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57986] Traceback (most recent call last):
+[Fri Jul 14 19:40:59.857171 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57986]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:40:59.857174 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57986]     import app
+[Fri Jul 14 19:40:59.857186 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57986] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:41:01.750567 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57987] mod_wsgi (pid=1694558): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:41:01.750604 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57987] mod_wsgi (pid=1694558): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:41:01.750665 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57987] Traceback (most recent call last):
+[Fri Jul 14 19:41:01.750680 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57987]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:41:01.750684 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57987]     import app
+[Fri Jul 14 19:41:01.750696 2023] [wsgi:error] [pid 1694558] [remote 130.83.71.123:57987] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 19:56:36.064621 2023] [wsgi:error] [pid 1697068] [remote 130.83.71.123:58202] mod_wsgi (pid=1697068): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:56:36.064669 2023] [wsgi:error] [pid 1697068] [remote 130.83.71.123:58202] mod_wsgi (pid=1697068): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 19:56:36.064793 2023] [wsgi:error] [pid 1697068] [remote 130.83.71.123:58202] Traceback (most recent call last):
+[Fri Jul 14 19:56:36.064809 2023] [wsgi:error] [pid 1697068] [remote 130.83.71.123:58202]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 9, in <module>
+[Fri Jul 14 19:56:36.064813 2023] [wsgi:error] [pid 1697068] [remote 130.83.71.123:58202]     import app
+[Fri Jul 14 19:56:36.064823 2023] [wsgi:error] [pid 1697068] [remote 130.83.71.123:58202] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 20:28:22.882522 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59177] mod_wsgi (pid=1700635): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:28:22.882563 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59177] mod_wsgi (pid=1700635): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:28:22.882694 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59177] Traceback (most recent call last):
+[Fri Jul 14 20:28:22.882710 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59177]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 10, in <module>
+[Fri Jul 14 20:28:22.882713 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59177]     import app
+[Fri Jul 14 20:28:22.882723 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59177] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 20:28:24.717999 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59178] mod_wsgi (pid=1700635): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:28:24.718042 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59178] mod_wsgi (pid=1700635): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:28:24.718103 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59178] Traceback (most recent call last):
+[Fri Jul 14 20:28:24.718117 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59178]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 10, in <module>
+[Fri Jul 14 20:28:24.718120 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59178]     import app
+[Fri Jul 14 20:28:24.718133 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59178] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 20:28:26.137225 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59179] mod_wsgi (pid=1700635): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:28:26.137277 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59179] mod_wsgi (pid=1700635): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:28:26.137338 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59179] Traceback (most recent call last):
+[Fri Jul 14 20:28:26.137352 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59179]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 10, in <module>
+[Fri Jul 14 20:28:26.137356 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59179]     import app
+[Fri Jul 14 20:28:26.137368 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:59179] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 20:40:20.180337 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62612] mod_wsgi (pid=1700635): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:40:20.180373 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62612] mod_wsgi (pid=1700635): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:40:20.180523 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62612] Traceback (most recent call last):
+[Fri Jul 14 20:40:20.180539 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62612]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 10, in <module>
+[Fri Jul 14 20:40:20.180542 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62612]     import app
+[Fri Jul 14 20:40:20.180555 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62612] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 20:40:25.769890 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62611] mod_wsgi (pid=1700635): Failed to exec Python script file '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:40:25.769934 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62611] mod_wsgi (pid=1700635): Exception occurred processing WSGI script '/var/www/vhosts/webss23/05/www/adapter.wsgi'.
+[Fri Jul 14 20:40:25.769994 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62611] Traceback (most recent call last):
+[Fri Jul 14 20:40:25.770009 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62611]   File "/var/www/vhosts/webss23/05/www/adapter.wsgi", line 10, in <module>
+[Fri Jul 14 20:40:25.770024 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62611]     import app
+[Fri Jul 14 20:40:25.770037 2023] [wsgi:error] [pid 1700635] [remote 130.83.71.123:62611] ModuleNotFoundError: No module named 'app'
+[Fri Jul 14 21:05:24.398573 2023] [wsgi:error] [pid 1683963] [client 130.83.71.123:58968] Target WSGI script not found or unable to stat: /var/www/vhosts/webss23/05/www/adapter.wsgi, referer: https://webss23_05.yoda.media.h-da.de/

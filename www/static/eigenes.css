@@ -1,0 +1,523 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+  margin: auto;
+  font-family: "frykas light";
+  font-size: 18px; /* Schriftgröße */
+  font-weight: 400; /* Schriftgewicht */
+  line-height: 1.5; /* Zeilenhöhe */
+  color: #000000; /* Textfarbe */
+  text-align: left; /* Textausrichtung */
+  background-color: #dcebca; /* Hintergrundfarbe von body*/
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+
+.nav-link {
+  font-size: 20px;
+  font-family: frykas light;
+  font-weight: 500;
+  color: black;
+}
+/* Container für Login */
+.container-fluid {
+  height: 100vh;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.navbar {
+  background-color: #849669;
+  margin: auto;
+}
+
+
+
+/* Überschriften */ 
+h1.h1 {
+  font-size: 30px; /* 20px vorher */
+  font-weight: bold;
+  color: #000000; 
+  text-align: center; /* Textausrichtung */
+  font-family: frykas light;
+}
+
+h1 {
+  font-size: 24px; /* 20px vorher */
+  font-weight: bold;
+  color: #000000; 
+  text-align: center;
+  font-family: frykas light;
+  padding-top: 20px;
+
+}
+
+/* Schrift Titel Museumsliste */ 
+h2.liste {
+   font-size: 24px;
+   color: #000000; 
+   text-align: left; /* Textausrichtung */
+   font-family: frykas light;
+   font-weight: bold;
+   padding-top: 20px;
+   padding-left: 10px;
+}
+
+/* Tabelle auf Detailseite */
+
+li {
+    display: list-item;
+    text-align: match-parent;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 4px;
+    font-family: frykas light;
+}
+
+ /* Tabelle zu Museumsinformationen */ 
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 100%;
+    border-color: #495057;
+    margin-top: 20px;    
+}
+
+th {
+    border: 1px solid black;
+    padding: 8px;
+    font-size: 20px;
+    font-weight: normal;
+    border-color: #495057;
+    font-family: frykas light;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+    font-size: 20px;
+    border-color: #495057;
+    font-family: frykas light;
+}
+tr {
+  display: table-row;
+}
+
+/*Profil Seite */
+.Profil-Überschrift {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+  font-family: frykas light;
+}
+
+.Willkommen-Überschrift {
+  font-size: 18px;
+  font-weight: normal;
+  color: #333333;
+  font-family: frykas light;
+  text-align: left;
+}
+
+.Profil {
+  font-size: 16px;
+  font-family: frykas light;
+  color: #000000;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  margin-top: 150px;
+  margin-left: auto;
+  margin-right: auto; 
+  margin-bottom: 150px;
+}
+
+
+/* Bilder (Logo, Museumsbilder) */
+ .title-image {
+        margin-left: auto;
+        margin-right: auto;     
+}
+
+/* neue Klasse für Bild in Detailansicht Museum */ /*vorher war: display: flex;max-width: 200px;margin-left: 0; */
+.museum-bild-detail {
+      height: auto;
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+}
+
+
+/*Logo */
+img.logo {
+  max-width: 100%;
+  height: auto;
+ }
+
+
+
+/* Bild für museum detailseite - jetzt ist es responsive */
+img, svg {
+ max-width: 50%;
+ height: auto;
+}
+
+/* Submit-Button (für Such-Button und Einloggen-Button) */
+button.btn.btn-outline-success[type="submit"] {
+  color: #495057;
+  border-color: rgb(222, 226, 230);
+  font-family: frykas light; 
+  font-size: 16px; 
+}
+
+button.btn.btn-outline-success[type="submit"]:hover {
+  color: rgba(0,0,0, 0.8);
+  background-color: #d2c386;
+  border-color: rgb(222, 226, 230);
+}
+
+
+/* Suchfeld-Größe */
+.form-control {
+  width:200px;
+  font-size: 16px;
+  font-family: frykas light;
+}
+
+/* Klasse für Einloggen-Feld */
+.input-small {
+  display: flex;
+  width: 200px;
+  gap: 10px; /* Abstand zwischen den Eingabefeldern */
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}
+
+
+/* Schrift von Benutzername und Passwort in Login */
+form label {
+  color: black;
+  font-family: frykas light;
+  font-size: 20px;
+}
+
+
+
+
+/*Impressum-Seite */
+.impressum {
+  font-size: 16px;
+  color: #000000;
+  width: 500px;
+  max-height: 400px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+}
+
+.impressum h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 8px 0;
+  text-align: center;
+  font-family: frykas light;
+}
+
+.impressum p {
+  margin: 8px 0;
+  font-family: frykas light;
+  font-size: 20px;
+}
+
+/* Über Uns-Seite */
+.über-uns{
+  font-size: 16px;
+  color: #000000;
+  width: 500px;
+  max-height: 500px;
+  border: 1px solid #ccc;
+  padding: 10px;
+
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.über-uns h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000000;
+  margin: 8px 0;
+  text-align: center;
+  font-family: frykas light;
+}
+
+.über-uns p {
+  margin: 8px 0;
+  font-family: frykas light;
+  font-size: 20px;
+}
+
+
+
+/* Museums-Liste Links anpassen */
+/* Link-Farbe ändern */
+.liste a {
+  color: #000000; /* Ersetzen Sie #FF0000 durch die gewünschte Farbe */
+
+}
+
+/* Link-Unterstreichung entfernen */
+.liste a {
+  text-decoration: none;
+}
+
+/* Link-Stil bei Hover ändern */
+.liste a:hover {
+  color: rgba(0,0,0, 0.8);
+  border-color: rgb(222, 226, 230);
+  text-decoration: underline; /* Hinzufügen oder entfernen Sie diese Zeile je nach gewünschtem Effekt */
+}
+
+/* Museumsliste */
+
+/* tooltip-museumsliste bei hover auf link */
+.tooltip-museumsliste {
+        position: relative;
+        display: inline-block;
+}
+
+/* tooltip-museumsliste */
+.tooltip-museumsliste:hover .tooltip-museumsliste-text {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* tooltip-museumsliste */
+.tooltip .tooltip-museumsliste-text {
+    visibility: hidden;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: right;
+    padding: 5px;
+    border-radius: 4px;
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+    white-space: nowrap;
+}
+
+/* tooltip-museumsliste */
+.tooltip-museumsliste:hover + .tooltip-museumsliste-text {
+        visibility: visible;
+        opacity: 1;
+        pointer-events: auto;
+        max-width: 768px;
+}
+
+/* tooltip-museumsliste */    
+.tooltip-museumsliste::before {
+        content: "";
+        position: absolute;
+        top: -5px;
+        left: 50%;
+        transform: translateX(-50%);
+        border-width: 5px;
+        border-style: solid;
+        border-color: transparent;
+        border-top-color: #000000;
+}
+
+/* tooltip-museumsliste */
+.tooltip-museumsliste-text {
+    visibility: hidden;
+    background-color: #FFFFFF;
+    color: #000000;
+    text-align: center;
+    padding: 5px;
+    border-radius: 4px;
+    position: absolute;
+    z-index: 1;
+    top: calc(100% + 5px);
+    transform: translateX(10%);
+    opacity: 0;
+    transition: opacity 0.3s;
+    white-space: nowrap;
+    max-width: 300px;
+    width: 300px;
+    left: 50%;
+    margin-left: 10px;
+}
+
+/* tooltip-museumsliste */
+.tooltip-museumsliste-text:hover {
+  color: initial;
+}
+
+
+/* tooltip-museumsliste */
+.tooltip-museumsliste-text a {
+    color: #ffffff; 
+    text-decoration: underline;
+}
+
+/* Merkliste */
+.Merkliste-Überschrift {
+  font-size: 24px;
+  font-weight: normal;
+  color: #000000;
+  text-align: center;
+  font-family: frykas light;
+}
+
+/* Merkliste */
+.Merkliste {
+  font-size: 16px;
+  font-family: frykas light;
+  color: #000000;
+
+  height: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  margin: auto;
+}
+
+/* Merkliste */
+.Merkliste-Liste {
+  margin-top: 20px;
+}
+
+/* Merkliste */
+.Merkliste-item {
+  margin-bottom: 10px;
+}
+
+/* Merkliste */
+.Merkliste-Link {
+ color: #000000;
+}
+
+/* Buttons - Alle */
+.btn:hover {
+    color: rgba(0,0,0, 0.8);
+    background-color: #d2c386;
+    border-color: rgb(222, 226, 230);
+  }
+
+/* Button - Merkliste */
+.btn btn-primary {
+ color: #e4605e;
+ font-family: frykas light;   
+}
+
+/* Button - Merkliste */
+.btn btn-primary :hover{
+   color: rgba(0,0,0, 0.8);
+}
+
+/* Buttons - Alle */
+.btn {
+  color: #000000;
+  background-color: white;
+  border-color: rgb(222, 226, 230);
+  width: 100px;
+  font-family: frykas light;
+}
+
+/* Button-Aktiv (drücken) */
+.btn.btn-primary:active {
+  background: #00000000;
+}
+
+
+/* leere Merkliste */
+.leere Merkliste {
+    font-family: frykas light;    
+}
+
+/* Anmelden Text */
+.Anmelden-Text {
+ font-weight: normal;
+ font-family: frykas light;
+ font-size: 20px;
+}
+/* Anmelden-Link */
+.Anmelden-Link {
+  color: black;
+  font-family: frykas light;
+  font-size: 20px;
+}
+
+/* Link-Farbe */
+a {
+   color: #0000EE; 
+   font-size: 18px;
+}
+
+/* Leaflet-css */
+.leaflet-popup-content {
+    margin: 13px 24px 13px 20px;
+    line-height: 1.3;
+    font-size: 16px;
+    min-height: 1px;
+    color: black;
+    font-family: frykas light;
+}
+
+/* h3 Überschrift */
+h3 {
+    display: block;
+    font-size: 18px
+    font-family: frykas light;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: semi-bold;
+    text-align: center;
+}
+
+p { /* Überschrift von Benutzer1 auf willkommen seite, erfolgreich ausgeloggt*/
+font-size: 18px;
+font-family: frykas light;
+display:block;
+}
+
+leaflet-zoom-animated
+/*h*/
+
+.seite p{
+    font-size: 24px;
+}
