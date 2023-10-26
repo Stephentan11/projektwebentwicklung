@@ -6,7 +6,7 @@ Des Weiteren bietet sie die Möglichkeit zur Anmeldung und Abmeldung, um Merklis
 
 # Einloggen
 
-benutzer: Benutzer1
+benutzer: Benutzer1  <br />
 passwort: passwort1
 
 # Installation
